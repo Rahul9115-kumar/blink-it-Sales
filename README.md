@@ -1,4 +1,4 @@
-# blink-it-Sales
+# blink-it-Sales: POWER BI DASHBOARD
 <br>
 Blink it Sales Dashboard:
 <br>
